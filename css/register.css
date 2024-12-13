@@ -1,0 +1,15 @@
+.logo img {
+    max-width: 100%;
+    height: auto;
+    width: 25%;      
+    border-radius: 5px; 
+}
+body{
+    background-color: #1F509A;
+}
+a {
+    color: #ffffff; 
+    text-decoration: none; 
+    font-weight: normal;
+    transition: color 0.3s ease;
+}
